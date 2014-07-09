@@ -110,4 +110,10 @@ In both cases npm's output, including any errors, will be written to the Output 
 
 ####[StackOverflow](http://stackoverflow.com/questions/5062614/how-to-decide-when-to-use-node-js)####
 
-####[I'm not understanding NTVS](http://stackoverflow.com/questions/5062614/how-to-decide-when-to-use-node-js)####
+####[Visual Studio Help](http://stackoverflow.com/questions/5062614/how-to-decide-when-to-use-node-js)####
+
+
+## Okay Christine, I understand... now what? ##
+
+On the GitHub, I've got some broken code, try to get it running!
+
